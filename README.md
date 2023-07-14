@@ -1,4 +1,4 @@
-# ortoniKC
+
 # 💫 About Me:
 🔭 I’m currently working on Data Scientist Intern<br>👯 I’m looking to collaborate on Data Scientist - related to the Machine learning<br>🤝 I’m looking for help with developing a automatic voice recognition to get the result<br>🌱 I’m currently learning How to Detect the Bank Loan Applications and EDA<br>💬 Ask me about Machine Learning and Deep Learning<br>⚡ Fun fact - I am lazy but I am smart
 
